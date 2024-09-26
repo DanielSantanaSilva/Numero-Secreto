@@ -58,9 +58,7 @@ Numero-Secreto é um jogo simples onde o jogador deve adivinhar um número secre
    ```
 5. Abra um Pull Request.
 
-## Licença
 
-Este projeto está licenciado sob a [Nome da Licença].
 
 ## Contato
 
